@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Sabin Nayaju .I'm an 18-year-old full-stack developer from Nepal. I'm currently learning React, Next.js, and Django, and have experience in frontend development with JavaScript, HTML, and CSS, as well as backend development with Node.js and Express.
+My name is Sabin Nayaju .I'm an 18-year-old full-stack developer from Nepal. I'm currently learning  Django, and have experience in frontend development with React, Next.js,JavaScript, HTML, and CSS, as well as backend development with Node.js and Express.
 
 
 ## 🌐 Socials:
