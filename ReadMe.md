@@ -10,7 +10,8 @@ My name is Sabin Nayaju .I'm an 18-year-old full-stack developer from Nepal. I'm
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SabinXtha1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SabinXtha1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabinXtha1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabinXtha1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://www.codewars.com/users/SabinXtha1/badges/large)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
